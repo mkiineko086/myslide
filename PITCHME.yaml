@@ -18,10 +18,6 @@ slide-number: true
 highlight : monokai
 
 
-#スライド自動再生の設定
-autoslide : 5000
-
-
 #スライドのループ設定
 loop : true
 
