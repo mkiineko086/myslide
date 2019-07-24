@@ -16,10 +16,10 @@
 ### 3枚目のスライド
 
 - Java
-- JavaScript
-- kotlin
-- Go
-- Scala
+- JavaScript|
+- kotlin|
+- Go|
+- Scala|
 
 
 ---
